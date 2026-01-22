@@ -29,3 +29,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local Spring config overrides
+src/main/resources/application-local.properties
+
+# Local Spring config overrides
+src/main/resources/application-local.properties
